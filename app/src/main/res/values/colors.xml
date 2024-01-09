@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#3949ab</color>
+    <color name="buttonBackground">#e53935</color>
+    <color name="operatorBackground">#e53935</color>
+    <color name="numpadColor">#b71c1c</color>
+</resources>
